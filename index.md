@@ -16,8 +16,21 @@ Games, Agents and Incentives is a confederated workshop which focuses (obviously
 Over the past two decades, the focus of agent incentives in decentralised and centralised AI systems has increased dramatically. These issues come up when designing preference aggregation mechanisms and markets; computing equilibria and bidding strategies; facilitating cooperation among agents; and fairly dividing resources.
 
 ## Important Dates
-* Submission Deadline: TBD
-* Acceptance Notification: TBD
+* Submission Deadline: February 26, 2021 (AoE).
+* Acceptance Notification: April 2, 2021.
+* Camera Ready: April 16, 2021 (AoE).
+* Workshop: May 3rd or 4th, 2021.
+
+---
+
+## Important Links:
+* [AAMAS 2021 Conference Website](https://aamas2021.soton.ac.uk/)
+* [2nd GAIW Website (2020)](http://www.agent-games-2020.preflib.org/)
+* [1st GAIW Website (2019)](http://www.agent-games-2019.preflib.org/)
+
+---
+
+## About GAIW
 
 The focus on incentives in AI at AAMAS can be judged from the significant proportion of technical program sessions which deal with them: “economic paradigms”; “mathematical social sciences”; “auctions and markets”; “non-cooperative games”; “cooperative games”; “social choice” and others. The goal of the workshop is to provide a forum to present the latest research, including more preliminary research that can benefit from further discussion and feedback.
 
