@@ -6,8 +6,8 @@ published: true
 
 ## Important Dates
 * Submission Deadline: February 28, 2021 (AoE).
-* Acceptance Notification: April 2, 2021.
-* Camera Ready: April 16, 2021 (AoE).
+* Acceptance Notification: ~~April 2~~ April 9th, 2021.
+* Camera Ready: ~~April 16~~ April 18th, 2021 (AoE).
 * Workshop: May 3rd or 4th, 2021.
 
 ## Submission Site and Details
