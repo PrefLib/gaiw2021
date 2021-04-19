@@ -8,7 +8,15 @@ published: true
 
 **Speaker:** Michael Wooldridge, University of Oxford
 
-**Title:** TBD
+**Title:** Understanding Equilibrium Properties of Multi-Agent Systems
+
+**Abstract:** Over a twenty minute period on the afternoon 6 May 2010, the Dow Jones industrial average collapsed, at one point wiping a trillion dollars off the value of the US markets. Remarkably, the market recovered in a similarly short period of time, to nearly its position before the collapse. While the precise causes of the so-called "Flash Crash" are complex and controversial, the Flash Crash was only possible because modern international markets are multi-agent systems, in which high frequency trading agents autonomously buy and sell on timescales that are so small that they are far beyond human comprehension or control. There is no reason to believe that the 2010 Flash Crash was an isolated event: and the next one could be even bigger, with potentially devastating global consequences. The 2010 Flash Crash provides a stark illustration of something we have long known: that systems composed of large numbers of multiple interacting components can be subject to rapid, unpredictable swings in behaviour.  We urgently need to develop the theory and tools to understand such multi-agent system dynamics.
+ 
+In this talk, I will present two very different approaches to this problem. The first views a multi-agent system as a game, in the sense of game theory, with decision-makers interacting strategically in pursuit of their goals. I describe a model we have developed in which players in such a game act in pursuit of temporal logic goals. In such a setting, the key decision problems relate to the properties of a system that hold under the assumption that players choose strategies in (Nash) equilibrium. I conclude by describing a tool, developed by DPhil student Muhammed Najib, through which we can automatically analyse the properties of such equilibria. The second approach takes a very different approach, in which we use agent-based financial models, involving very large numbers of agents, to understand specifically the factors that can contribute to Flash Crash events, and in particular the phenomenon of "contagion", where stress on one asset leads to other assets being stressed.
+ 
+This talk will report joint work with Ani Calinescu, Julian Gutierrez, Paul Harrenstein, Muhammed Najib, James Paulin, and Giuseppe Perelli.
+
+**Bio:** Michael Wooldridge is a Professor of Computer Science and Head of Department of Computer Science at the University of Oxford. He has been an AI researcher for more than 25 years, and has published more than 400 scientific articles on the subject. He is a Fellow of the Association for Computing Machinery (ACM), the Association for the Advancement of AI (AAAI), and the European Association for AI (EurAI). From 2014-16, he was President of the European Association for AI, and from 2015-17 he was President of the International Joint Conference on AI (IJCAI).
 
 ---
 
