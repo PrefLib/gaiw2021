@@ -6,6 +6,8 @@ published: true
 
 ## Program
 
+**All sessions will be held starting at 7:00am GMT+1 (London Time) on Tuesday May 4th.**
+
 ### Session 1
 
 **Chairs:**
