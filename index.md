@@ -20,7 +20,7 @@ Games, Agents and Incentives is a confederated workshop which focuses (obviously
 Over the past two decades, the focus of agent incentives in decentralised and centralised AI systems has increased dramatically. These issues come up when designing preference aggregation mechanisms and markets; computing equilibria and bidding strategies; facilitating cooperation among agents; and fairly dividing resources.
 
 ## Important Dates
-* Submission Deadline: February 28, 2021 (AoE).
+* ~~Submission Deadline: February 28, 2021 (AoE).~~
 * ~~Acceptance Notification: April 2, 2021.!~~ Acceptance Notification: April 9th
 * ~~Camera Ready: April 16, 2021 (AoE).~~ Camera Ready: April 18, 2021 (AoE).
 * Workshop: May 4th, 2021, 7am GMT+1.
