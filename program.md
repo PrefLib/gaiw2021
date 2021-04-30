@@ -8,6 +8,8 @@ published: true
 
 **All sessions will be held starting at 7:00am GMT+1 (London Time) on Tuesday May 4th.**
 
+To participate in the workshop please follow the directions to log in on the [AAMAS Website](https://aamas2021.soton.ac.uk/programme/how-to-participate/).
+
 ### Session 1
 
 **Chairs:**
