@@ -73,6 +73,8 @@ To participate in the workshop please follow the directions to log in on the [AA
 | 15:55- 16:10     | 19       | Jaelle Scheuerman, Jason   Harman, Nicholas Mattei and Kristen Brent Venable          | Modeling Voters in Multi-Winner Approval Voting                           |
 | 16:10 - 16:20    | Break    |                                                                                       |                                                                           |
 | 16:20 - 16:35    | 33       | Andrea Martin, Nicholas Mattei   and Kristen Brent Venable                            | Behavioral Stable Marriage Problems                                       |
+| 16:35 - 16:50    | 43       | Anilesh Kollagunta Krishnaswamy, Haoming Li, David Rein, Hanrui Zhang and Vincent Conitzer                            | Classification with Strategically Withheld Data                                       |
+| 16:50 - 17:05    | 20       | Hadi Hosseini and Andrew Searns                            | Guaranteeing Maximin Shares: Some Agents Left Behind                                       |
 
 ## Invited Talks
 
