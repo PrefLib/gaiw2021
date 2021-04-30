@@ -6,6 +6,10 @@ published: true
 ---
 <p style="text-align:center;"><img src="{{ 'img/gaiwcover.png' | relative_url }}" /></p>
 
+## Update April 30, 2021.
+
+The program for the workshop is now available on the [Program](./program.md) page. We look forward to seeing everyone on Tuesday May 4th at 7:00AM (GMT+1 UK Time)!.
+
 ## About the Games, Agents, and Incentives Workshop
 
 Games, Agents and Incentives is a confederated workshop which focuses (obviously…) on agents and incentives in AI.  In particular on game theory (cooperative and non-cooperative), social choice, and agent-mediated e-commerce aspects of AI systems. The confederated workshop merges multiple workshops that have been associated with AAMAS in the past, which considered different aspects of the general interplay between AI and economics:
