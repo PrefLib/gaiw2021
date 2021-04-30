@@ -23,7 +23,7 @@ Over the past two decades, the focus of agent incentives in decentralised and ce
 * Submission Deadline: February 28, 2021 (AoE).
 * ~~Acceptance Notification: April 2, 2021.!~~ Acceptance Notification: April 9th
 * ~~Camera Ready: April 16, 2021 (AoE).~~ Camera Ready: April 18, 2021 (AoE).
-* Workshop: May 3rd or 4th, 2021.
+* Workshop: May 4th, 2021, 7am GMT+1.
 
 ---
 
