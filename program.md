@@ -12,7 +12,7 @@ To participate in the workshop please follow the directions to log in on the [AA
 
 ### Session 1
 
-**Chairs:**
+**Chairs:** Omer Lev
 
 |     Time (GMT+1) | Paper ID     | Authors                                                                       | Paper                                                          |
 |------------------|--------------|-------------------------------------------------------------------------------|----------------------------------------------------------------|
@@ -28,7 +28,7 @@ To participate in the workshop please follow the directions to log in on the [AA
 
 ### Session 2
 
-**Chairs:** Omer Lev
+**Chairs:** Sofia Ceppi
 
 |     Time (GMT+1) | Paper ID     | Authors                                               | Paper                                                                                   |
 |------------------|--------------|-------------------------------------------------------|-----------------------------------------------------------------------------------------|
@@ -101,9 +101,12 @@ This talk will report joint work with Ani Calinescu, Julian Gutierrez, Paul Harr
 --- 
 **Speaker:** Simina Branzei, Purdue University
 
-**Title:** 
+**Title:** Universal growth in production economies
 
-**Abstract:** 
+**Abstract:** We consider a simple variant of the von Neumann model of an expanding economy, in which multiple producers make goods according to their production function. The players trade their goods at the market and then use the bundles acquired for the production in the next round. We study a simple decentralized dynamic---known as proportional response---in which players update their bids proportionally to how useful the investments were in the past round. 
+We show this dynamic leads to growth of the economy in the long term (whenever growth is possible) but also creates unbounded inequality, i.e. very rich and very poor players emerge. We analyze several other phenomena, such as how the relation of a player with others influences its development and the Gini index of the system. Based on joint work with Ruta Mehta and Noam Nisan.
+
+**Bio:** Simina Branzei is an Assistant Professor of Computer Science at Purdue University. She received her Ph.d. at Aarhus University in 2015, where she was supported by an IBM Ph.D. fellowship and a Google Anita Borg Memorial Scholarship. She was subsequently a research fellow at the Simons Institute for the Theory of Computing and a postdoctoral fellow at the Hebrew University of Jerusalem.
 
 ## Accepted Papers
 
