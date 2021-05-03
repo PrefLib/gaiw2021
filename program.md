@@ -48,13 +48,13 @@ To participate in the workshop please follow the directions to log in on the [AA
 
 |     Time (GMT+1) | Paper ID     | Authors                                                                          | Paper                                                                        |
 |------------------|--------------|----------------------------------------------------------------------------------|------------------------------------------------------------------------------|
-| 12:00 - 12:15    | 2            | Ben Armstrong and Kate Larson                                                    | On the Limited Applicability of Liquid Democracy                             |
-| 12:15 - 12:30    | 11           | Umang Bhaskar, Sricharan Ar and Rohit Vaish                                      | On Approximate Envy-Freeness for Indivisible Chores and Mixed   Resources    |
+| 12:00 - 12:15    | [Paper Link](/_papers/GAIW_2021_paper_2.pdf)            | Ben Armstrong and Kate Larson                                                    | On the Limited Applicability of Liquid Democracy                             |
+| 12:15 - 12:30    | [Paper Link](/_papers/GAIW_2021_paper_11.pdf)           | Umang Bhaskar, Sricharan Ar and Rohit Vaish                                      | On Approximate Envy-Freeness for Indivisible Chores and Mixed   Resources    |
 | 12:30 - 12:40    | Break        |                                                                                  |                                                                              |
-| 12:40 - 12:55    | 17           | Rupert Freeman, Evi Micha   and Nisarg Shah                                      | Two-Sided Matching Meets Fair Division                                       |
-| 12:55 - 13:10    | 24           | Omer Lev, Nicholas Mattei, Paolo Turrini and Stanislav Zhydkov                   | Peer Selection with Noisy Assessments                                        |
-| 13:10 - 13:25    | 29           | Steven Jecmen, Hanrui Zhang, Ryan Liu, Nihar Shah, Vincent Conitzer and Fei Fang | Mitigating Manipulation in Peer Review via Randomized Reviewer   Assignments |
-| 13:25 - 13:40    | 44           | Jonathan Wagner and Reshef Meir                                                  | A VCG Adaptation for Participatory Budgeting                                 |
+| 12:40 - 12:55    | [Paper Link](/_papers/GAIW_2021_paper_17.pdf)           | Rupert Freeman, Evi Micha   and Nisarg Shah                                      | Two-Sided Matching Meets Fair Division                                       |
+| 12:55 - 13:10    | [Paper Link](/_papers/GAIW_2021_paper_24.pdf)           | Omer Lev, Nicholas Mattei, Paolo Turrini and Stanislav Zhydkov                   | Peer Selection with Noisy Assessments                                        |
+| 13:10 - 13:25    | [Paper Link](/_papers/GAIW_2021_paper_29.pdf)           | Steven Jecmen, Hanrui Zhang, Ryan Liu, Nihar Shah, Vincent Conitzer and Fei Fang | Mitigating Manipulation in Peer Review via Randomized Reviewer   Assignments |
+| 13:25 - 13:40    | [Paper Link](/_papers/GAIW_2021_paper_44.pdf)           | Jonathan Wagner and Reshef Meir                                                  | A VCG Adaptation for Participatory Budgeting                                 |
 | 13:40 - 13:50    | Break        |                                                                                  |                                                                              |
 | 13:50 - 14:30    | Invited Talk | Simina Branzei                                                                   |                                                                              |
 
