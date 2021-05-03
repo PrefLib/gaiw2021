@@ -17,12 +17,12 @@ To participate in the workshop please follow the directions to log in on the [AA
 |     Time (GMT+1) | Paper ID     | Authors                                                                       | Paper                                                          |
 |------------------|--------------|-------------------------------------------------------------------------------|----------------------------------------------------------------|
 | 7:00 - 7:15      | 3            | Nimrod Talmon and Rutvik Page                                                 | Proportionality in Committee Selection with Negative Feelings  |
-| 7:15 - 7:30      | 6            | Mithun Chakraborty, Ulrike Schmidt-Kraepelin and Warut   Suksompong           | Picking Sequences and Monotonicity in Weighted Fair Division   |
-| 7:30 - 7:45      | 13           | Grzegorz Gawron and   Piotr Faliszewski                                       | Using Multiwinner Voting to Search for Movies                  |
+| 7:15 - 7:30      | [Paper Link](/_papers/GAIW_2021_paper_6.pdf)       | Mithun Chakraborty, Ulrike Schmidt-Kraepelin and Warut   Suksompong           | Picking Sequences and Monotonicity in Weighted Fair Division   |
+| 7:30 - 7:45      | [Paper Link](/_papers/GAIW_2021_paper_13.pdf)           | Grzegorz Gawron and   Piotr Faliszewski                                       | Using Multiwinner Voting to Search for Movies                  |
 | 7:45 - 8:00      | 16           | Dvir Gilor, Rica Gonen and Erel Segal-Halevi                                  | Ascending-Price Mechanism for General Multi-Sided Markets      |
 | 8:00 - 8:10      | Break        |                                                                               |                                                                |
 | 8:10 - 8:25      | 25           | Kotone Ninagawa, Yasser Mohammad and Amy Greenwald                            | Baseline Strategies for the ANAC Automated Negotiation League  |
-| 8:25 - 8:40      | 39           | Gabriel Andrade, Rafael Frongillo, Sharadha Srinivasan and Elliot Gorokhovsky | Graphical Economics with Resale                                |
+| 8:25 - 8:40      | [Paper Link](/_papers/GAIW_2021_paper_39.pdf)           | Gabriel Andrade, Rafael Frongillo, Sharadha Srinivasan and Elliot Gorokhovsky | Graphical Economics with Resale                                |
 | 8:40 - 8:50      | Break        |                                                                               |                                                                |
 | 8:50 - 9:30      | Invited Talk | Michael Wooldridge                                                            | Understanding Equilibrium Properties of Multi-Agent Systems    |
 
@@ -32,13 +32,13 @@ To participate in the workshop please follow the directions to log in on the [AA
 
 |     Time (GMT+1) | Paper ID     | Authors                                               | Paper                                                                                   |
 |------------------|--------------|-------------------------------------------------------|-----------------------------------------------------------------------------------------|
-| 9:30 - 9:45      | 4            | Felix Brandt, Martin Bullinger and Anaëlle Wilczynski | Reaching Individually Stable Coalition Structures                                       |
-| 9:45 - 10:00     | 46           | Mehmet Ismail                                         | The strategy of conflict and cooperation                                                |
+| 9:30 - 9:45      | [Paper Link](/_papers/GAIW_2021_paper_4.pdf)            | Felix Brandt, Martin Bullinger and Anaëlle Wilczynski | Reaching Individually Stable Coalition Structures                                       |
+| 9:45 - 10:00     | [Paper Link](/_papers/GAIW_2021_paper_46.pdf)           | Mehmet Ismail                                         | The strategy of conflict and cooperation                                                |
 | 10:00 - 10:10    | Break        |                                                       |                                                                                         |
-| 10:10 - 10:25    | 5            | Patrick Lederer                                       | Strategyproof Randomized Social Choice for Restricted Sets of   Utility Functions       |
-| 10:25 - 10:40    | 8            | Chenhao Wang and Qiong Liu                            | Load Balancing Game in Loss Communication Networks                                      |
-| 10:40 - 10:55    | 22           | Jonathan Scarlett, Nicholas Teh and Yair Zick         | For One and All: Individual and Group Fairness in the Allocation of   Indivisible Goods |
-| 10:55- 11:10     | 1            | Leora Schmerler and   Noam Hazon                      | Strategic voting in negotiating teams                                                   |
+| 10:10 - 10:25    | [Paper Link](/_papers/GAIW_2021_paper_5.pdf)            | Patrick Lederer                                       | Strategyproof Randomized Social Choice for Restricted Sets of   Utility Functions       |
+| 10:25 - 10:40    | [Paper Link](/_papers/GAIW_2021_paper_8.pdf)            | Chenhao Wang and Qiong Liu                            | Load Balancing Game in Loss Communication Networks                                      |
+| 10:40 - 10:55    | [Paper Link](/_papers/GAIW_2021_paper_22.pdf)           | Jonathan Scarlett, Nicholas Teh and Yair Zick         | For One and All: Individual and Group Fairness in the Allocation of   Indivisible Goods |
+| 10:55- 11:10     | [Paper Link](/_papers/GAIW_2021_paper_1.pdf)            | Leora Schmerler and   Noam Hazon                      | Strategic voting in negotiating teams                                                   |
 | 11:10 - 11:20    | Break        |                                                       |                                                                                         |
 | 11:20 - 12:00    | Invited Talk | Ioannis Caragiannis                                   | Impartial selection, additive approximation guarantees, and priors                      |
 
@@ -48,13 +48,13 @@ To participate in the workshop please follow the directions to log in on the [AA
 
 |     Time (GMT+1) | Paper ID     | Authors                                                                          | Paper                                                                        |
 |------------------|--------------|----------------------------------------------------------------------------------|------------------------------------------------------------------------------|
-| 12:00 - 12:15    | 2            | Ben Armstrong and Kate Larson                                                    | On the Limited Applicability of Liquid Democracy                             |
-| 12:15 - 12:30    | 11           | Umang Bhaskar, Sricharan Ar and Rohit Vaish                                      | On Approximate Envy-Freeness for Indivisible Chores and Mixed   Resources    |
+| 12:00 - 12:15    | [Paper Link](/_papers/GAIW_2021_paper_2.pdf)            | Ben Armstrong and Kate Larson                                                    | On the Limited Applicability of Liquid Democracy                             |
+| 12:15 - 12:30    | [Paper Link](/_papers/GAIW_2021_paper_11.pdf)           | Umang Bhaskar, Sricharan Ar and Rohit Vaish                                      | On Approximate Envy-Freeness for Indivisible Chores and Mixed   Resources    |
 | 12:30 - 12:40    | Break        |                                                                                  |                                                                              |
-| 12:40 - 12:55    | 17           | Rupert Freeman, Evi Micha   and Nisarg Shah                                      | Two-Sided Matching Meets Fair Division                                       |
-| 12:55 - 13:10    | 24           | Omer Lev, Nicholas Mattei, Paolo Turrini and Stanislav Zhydkov                   | Peer Selection with Noisy Assessments                                        |
-| 13:10 - 13:25    | 29           | Steven Jecmen, Hanrui Zhang, Ryan Liu, Nihar Shah, Vincent Conitzer and Fei Fang | Mitigating Manipulation in Peer Review via Randomized Reviewer   Assignments |
-| 13:25 - 13:40    | 44           | Jonathan Wagner and Reshef Meir                                                  | A VCG Adaptation for Participatory Budgeting                                 |
+| 12:40 - 12:55    | [Paper Link](/_papers/GAIW_2021_paper_17.pdf)           | Rupert Freeman, Evi Micha   and Nisarg Shah                                      | Two-Sided Matching Meets Fair Division                                       |
+| 12:55 - 13:10    | [Paper Link](/_papers/GAIW_2021_paper_24.pdf)           | Omer Lev, Nicholas Mattei, Paolo Turrini and Stanislav Zhydkov                   | Peer Selection with Noisy Assessments                                        |
+| 13:10 - 13:25    | [Paper Link](/_papers/GAIW_2021_paper_29.pdf)           | Steven Jecmen, Hanrui Zhang, Ryan Liu, Nihar Shah, Vincent Conitzer and Fei Fang | Mitigating Manipulation in Peer Review via Randomized Reviewer   Assignments |
+| 13:25 - 13:40    | [Paper Link](/_papers/GAIW_2021_paper_44.pdf)           | Jonathan Wagner and Reshef Meir                                                  | A VCG Adaptation for Participatory Budgeting                                 |
 | 13:40 - 13:50    | Break        |                                                                                  |                                                                              |
 | 13:50 - 14:30    | Invited Talk | Simina Branzei                                                                   |                                                                              |
 
@@ -64,17 +64,17 @@ To participate in the workshop please follow the directions to log in on the [AA
 
 |     Time (GMT+1) | Paper ID | Authors                                                                               | Paper                                                                     |
 |------------------|----------|---------------------------------------------------------------------------------------|---------------------------------------------------------------------------|
-| 14:30 - 14:45    | 32       | Scott Emmons, Caspar Oesterheld, Andrew Critch, Vincent Conitzer   and Stuart Russell | Symmetry, Equilibria, and Robustness in Common-Payoff Games               |
-| 14:45 - 15:00    | 37       | Caspar Oesterheld and Vincent Conitzer                                                | Decision Scoring Rules                                                    |
+| 14:30 - 14:45    | [Paper Link](/_papers/GAIW_2021_paper_32.pdf)       | Scott Emmons, Caspar Oesterheld, Andrew Critch, Vincent Conitzer   and Stuart Russell | Symmetry, Equilibria, and Robustness in Common-Payoff Games               |
+| 14:45 - 15:00    | [Paper Link](/_papers/GAIW_2021_paper_37.pdf)       | Caspar Oesterheld and Vincent Conitzer                                                | Decision Scoring Rules                                                    |
 | 15:00 - 15:10    | Break    |                                                                                       |                                                                           |
-| 15:10 - 15:25    | 18       | Hadi Hosseini, Fatima Umar and Rohit Vaish                                            | Accomplice Manipulation of the Deferred Acceptance Algorithm              |
-| 15:25 - 15:40    | 9        | Zun Li   and Michael Wellman                                                          | Evolution Strategies for Approximate Solution of Bayesian Games           |
-| 15:40 - 15:55    | 27       | Hanrui Zhang, Yu Cheng   and Vincent Conitzer                                         | Automated Mechanism Design for Classification with Partial   Verification |
-| 15:55- 16:10     | 19       | Jaelle Scheuerman, Jason   Harman, Nicholas Mattei and Kristen Brent Venable          | Modeling Voters in Multi-Winner Approval Voting                           |
+| 15:10 - 15:25    | [Paper Link](/_papers/GAIW_2021_paper_18.pdf)       | Hadi Hosseini, Fatima Umar and Rohit Vaish                                            | Accomplice Manipulation of the Deferred Acceptance Algorithm              |
+| 15:25 - 15:40    | [Paper Link](/_papers/GAIW_2021_paper_9.pdf)        | Zun Li   and Michael Wellman                                                          | Evolution Strategies for Approximate Solution of Bayesian Games           |
+| 15:40 - 15:55    | [Paper Link](/_papers/GAIW_2021_paper_27.pdf)       | Hanrui Zhang, Yu Cheng   and Vincent Conitzer                                         | Automated Mechanism Design for Classification with Partial   Verification |
+| 15:55- 16:10     | [Paper Link](/_papers/GAIW_2021_paper_19.pdf)       | Jaelle Scheuerman, Jason   Harman, Nicholas Mattei and Kristen Brent Venable          | Modeling Voters in Multi-Winner Approval Voting                           |
 | 16:10 - 16:20    | Break    |                                                                                       |                                                                           |
-| 16:20 - 16:35    | 33       | Andrea Martin, Nicholas Mattei   and Kristen Brent Venable                            | Behavioral Stable Marriage Problems                                       |
-| 16:35 - 16:50    | 43       | Anilesh Kollagunta Krishnaswamy, Haoming Li, David Rein, Hanrui Zhang and Vincent Conitzer                            | Classification with Strategically Withheld Data                                       |
-| 16:50 - 17:05    | 20       | Hadi Hosseini and Andrew Searns                            | Guaranteeing Maximin Shares: Some Agents Left Behind                                       |
+| 16:20 - 16:35    | [Paper Link](/_papers/GAIW_2021_paper_33.pdf)       | Andrea Martin, Nicholas Mattei   and Kristen Brent Venable                            | Behavioral Stable Marriage Problems                                       |
+| 16:35 - 16:50    | [Paper Link](/_papers/GAIW_2021_paper_43.pdf)       | Anilesh Kollagunta Krishnaswamy, Haoming Li, David Rein, Hanrui Zhang and Vincent Conitzer                            | Classification with Strategically Withheld Data                                       |
+| 16:50 - 17:05    | [Paper Link](/_papers/GAIW_2021_paper_20.pdf)       | Hadi Hosseini and Andrew Searns                            | Guaranteeing Maximin Shares: Some Agents Left Behind                                       |
 
 ## Invited Talks
 
