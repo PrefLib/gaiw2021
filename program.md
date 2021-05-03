@@ -32,13 +32,13 @@ To participate in the workshop please follow the directions to log in on the [AA
 
 |     Time (GMT+1) | Paper ID     | Authors                                               | Paper                                                                                   |
 |------------------|--------------|-------------------------------------------------------|-----------------------------------------------------------------------------------------|
-| 9:30 - 9:45      | 4            | Felix Brandt, Martin Bullinger and Anaëlle Wilczynski | Reaching Individually Stable Coalition Structures                                       |
-| 9:45 - 10:00     | 46           | Mehmet Ismail                                         | The strategy of conflict and cooperation                                                |
+| 9:30 - 9:45      | [Paper Link](/_papers/GAIW_2021_paper_4.pdf)            | Felix Brandt, Martin Bullinger and Anaëlle Wilczynski | Reaching Individually Stable Coalition Structures                                       |
+| 9:45 - 10:00     | [Paper Link](/_papers/GAIW_2021_paper_46.pdf)           | Mehmet Ismail                                         | The strategy of conflict and cooperation                                                |
 | 10:00 - 10:10    | Break        |                                                       |                                                                                         |
-| 10:10 - 10:25    | 5            | Patrick Lederer                                       | Strategyproof Randomized Social Choice for Restricted Sets of   Utility Functions       |
-| 10:25 - 10:40    | 8            | Chenhao Wang and Qiong Liu                            | Load Balancing Game in Loss Communication Networks                                      |
-| 10:40 - 10:55    | 22           | Jonathan Scarlett, Nicholas Teh and Yair Zick         | For One and All: Individual and Group Fairness in the Allocation of   Indivisible Goods |
-| 10:55- 11:10     | 1            | Leora Schmerler and   Noam Hazon                      | Strategic voting in negotiating teams                                                   |
+| 10:10 - 10:25    | [Paper Link](/_papers/GAIW_2021_paper_5.pdf)            | Patrick Lederer                                       | Strategyproof Randomized Social Choice for Restricted Sets of   Utility Functions       |
+| 10:25 - 10:40    | [Paper Link](/_papers/GAIW_2021_paper_8.pdf)            | Chenhao Wang and Qiong Liu                            | Load Balancing Game in Loss Communication Networks                                      |
+| 10:40 - 10:55    | [Paper Link](/_papers/GAIW_2021_paper_22.pdf)           | Jonathan Scarlett, Nicholas Teh and Yair Zick         | For One and All: Individual and Group Fairness in the Allocation of   Indivisible Goods |
+| 10:55- 11:10     | [Paper Link](/_papers/GAIW_2021_paper_1.pdf)            | Leora Schmerler and   Noam Hazon                      | Strategic voting in negotiating teams                                                   |
 | 11:10 - 11:20    | Break        |                                                       |                                                                                         |
 | 11:20 - 12:00    | Invited Talk | Ioannis Caragiannis                                   | Impartial selection, additive approximation guarantees, and priors                      |
 
