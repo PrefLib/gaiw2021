@@ -26,13 +26,7 @@ navbar-links:
   Organization: "organization"
 
 collections:
-  projects:
-    output: true
-  labs:
-    output: true
-  notebooks:
-    output: true
-  lectures:
+  papers:
     output: true
 
 
