@@ -64,17 +64,17 @@ To participate in the workshop please follow the directions to log in on the [AA
 
 |     Time (GMT+1) | Paper ID | Authors                                                                               | Paper                                                                     |
 |------------------|----------|---------------------------------------------------------------------------------------|---------------------------------------------------------------------------|
-| 14:30 - 14:45    | 32       | Scott Emmons, Caspar Oesterheld, Andrew Critch, Vincent Conitzer   and Stuart Russell | Symmetry, Equilibria, and Robustness in Common-Payoff Games               |
-| 14:45 - 15:00    | 37       | Caspar Oesterheld and Vincent Conitzer                                                | Decision Scoring Rules                                                    |
+| 14:30 - 14:45    | [Paper Link](/_papers/GAIW_2021_paper_32.pdf)       | Scott Emmons, Caspar Oesterheld, Andrew Critch, Vincent Conitzer   and Stuart Russell | Symmetry, Equilibria, and Robustness in Common-Payoff Games               |
+| 14:45 - 15:00    | [Paper Link](/_papers/GAIW_2021_paper_37.pdf)       | Caspar Oesterheld and Vincent Conitzer                                                | Decision Scoring Rules                                                    |
 | 15:00 - 15:10    | Break    |                                                                                       |                                                                           |
-| 15:10 - 15:25    | 18       | Hadi Hosseini, Fatima Umar and Rohit Vaish                                            | Accomplice Manipulation of the Deferred Acceptance Algorithm              |
-| 15:25 - 15:40    | 9        | Zun Li   and Michael Wellman                                                          | Evolution Strategies for Approximate Solution of Bayesian Games           |
-| 15:40 - 15:55    | 27       | Hanrui Zhang, Yu Cheng   and Vincent Conitzer                                         | Automated Mechanism Design for Classification with Partial   Verification |
-| 15:55- 16:10     | 19       | Jaelle Scheuerman, Jason   Harman, Nicholas Mattei and Kristen Brent Venable          | Modeling Voters in Multi-Winner Approval Voting                           |
+| 15:10 - 15:25    | [Paper Link](/_papers/GAIW_2021_paper_18.pdf)       | Hadi Hosseini, Fatima Umar and Rohit Vaish                                            | Accomplice Manipulation of the Deferred Acceptance Algorithm              |
+| 15:25 - 15:40    | [Paper Link](/_papers/GAIW_2021_paper_9.pdf)        | Zun Li   and Michael Wellman                                                          | Evolution Strategies for Approximate Solution of Bayesian Games           |
+| 15:40 - 15:55    | [Paper Link](/_papers/GAIW_2021_paper_27.pdf)       | Hanrui Zhang, Yu Cheng   and Vincent Conitzer                                         | Automated Mechanism Design for Classification with Partial   Verification |
+| 15:55- 16:10     | [Paper Link](/_papers/GAIW_2021_paper_19.pdf)       | Jaelle Scheuerman, Jason   Harman, Nicholas Mattei and Kristen Brent Venable          | Modeling Voters in Multi-Winner Approval Voting                           |
 | 16:10 - 16:20    | Break    |                                                                                       |                                                                           |
-| 16:20 - 16:35    | 33       | Andrea Martin, Nicholas Mattei   and Kristen Brent Venable                            | Behavioral Stable Marriage Problems                                       |
-| 16:35 - 16:50    | 43       | Anilesh Kollagunta Krishnaswamy, Haoming Li, David Rein, Hanrui Zhang and Vincent Conitzer                            | Classification with Strategically Withheld Data                                       |
-| 16:50 - 17:05    | 20       | Hadi Hosseini and Andrew Searns                            | Guaranteeing Maximin Shares: Some Agents Left Behind                                       |
+| 16:20 - 16:35    | [Paper Link](/_papers/GAIW_2021_paper_33.pdf)       | Andrea Martin, Nicholas Mattei   and Kristen Brent Venable                            | Behavioral Stable Marriage Problems                                       |
+| 16:35 - 16:50    | [Paper Link](/_papers/GAIW_2021_paper_43.pdf)       | Anilesh Kollagunta Krishnaswamy, Haoming Li, David Rein, Hanrui Zhang and Vincent Conitzer                            | Classification with Strategically Withheld Data                                       |
+| 16:50 - 17:05    | [Paper Link](/_papers/GAIW_2021_paper_20.pdf)       | Hadi Hosseini and Andrew Searns                            | Guaranteeing Maximin Shares: Some Agents Left Behind                                       |
 
 ## Invited Talks
 
