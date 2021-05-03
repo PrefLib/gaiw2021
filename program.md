@@ -17,7 +17,7 @@ To participate in the workshop please follow the directions to log in on the [AA
 |     Time (GMT+1) | Paper ID     | Authors                                                                       | Paper                                                          |
 |------------------|--------------|-------------------------------------------------------------------------------|----------------------------------------------------------------|
 | 7:00 - 7:15      | 3            | Nimrod Talmon and Rutvik Page                                                 | Proportionality in Committee Selection with Negative Feelings  |
-| 7:15 - 7:30      | 6            | Mithun Chakraborty, Ulrike Schmidt-Kraepelin and Warut   Suksompong           | Picking Sequences and Monotonicity in Weighted Fair Division   |
+| 7:15 - 7:30      | [Paper Link](./_papers/GAIW_2021_paper_6.pdf)       | Mithun Chakraborty, Ulrike Schmidt-Kraepelin and Warut   Suksompong           | Picking Sequences and Monotonicity in Weighted Fair Division   |
 | 7:30 - 7:45      | 13           | Grzegorz Gawron and   Piotr Faliszewski                                       | Using Multiwinner Voting to Search for Movies                  |
 | 7:45 - 8:00      | 16           | Dvir Gilor, Rica Gonen and Erel Segal-Halevi                                  | Ascending-Price Mechanism for General Multi-Sided Markets      |
 | 8:00 - 8:10      | Break        |                                                                               |                                                                |
