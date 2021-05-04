@@ -16,12 +16,12 @@ To participate in the workshop please follow the directions to log in on the [AA
 
 |     Time (GMT+1) | Paper ID     | Authors                                                                       | Paper                                                          |
 |------------------|--------------|-------------------------------------------------------------------------------|----------------------------------------------------------------|
-| 7:00 - 7:15      | 3            | Nimrod Talmon and Rutvik Page                                                 | Proportionality in Committee Selection with Negative Feelings  |
+| 7:00 - 7:15      | [Paper Link](/_papers/GAIW_2021_paper_3.pdf)            | Nimrod Talmon and Rutvik Page                                                 | Proportionality in Committee Selection with Negative Feelings  |
 | 7:15 - 7:30      | [Paper Link](/_papers/GAIW_2021_paper_6.pdf)       | Mithun Chakraborty, Ulrike Schmidt-Kraepelin and Warut   Suksompong           | Picking Sequences and Monotonicity in Weighted Fair Division   |
 | 7:30 - 7:45      | [Paper Link](/_papers/GAIW_2021_paper_13.pdf)           | Grzegorz Gawron and   Piotr Faliszewski                                       | Using Multiwinner Voting to Search for Movies                  |
 | 7:45 - 8:00      | 16           | Dvir Gilor, Rica Gonen and Erel Segal-Halevi                                  | Ascending-Price Mechanism for General Multi-Sided Markets      |
 | 8:00 - 8:10      | Break        |                                                                               |                                                                |
-| 8:10 - 8:25      | 25           | Kotone Ninagawa, Yasser Mohammad and Amy Greenwald                            | Baseline Strategies for the ANAC Automated Negotiation League  |
+| 8:10 - 8:25      | [Paper Link](/_papers/GAIW_2021_paper_25.pdf)           | Kotone Ninagawa, Yasser Mohammad and Amy Greenwald                            | Baseline Strategies for the ANAC Automated Negotiation League  |
 | 8:25 - 8:40      | [Paper Link](/_papers/GAIW_2021_paper_39.pdf)           | Gabriel Andrade, Rafael Frongillo, Sharadha Srinivasan and Elliot Gorokhovsky | Graphical Economics with Resale                                |
 | 8:40 - 8:50      | Break        |                                                                               |                                                                |
 | 8:50 - 9:30      | Invited Talk | Michael Wooldridge                                                            | Understanding Equilibrium Properties of Multi-Agent Systems    |
