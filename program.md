@@ -10,6 +10,8 @@ published: true
 
 To participate in the workshop please follow the directions to log in on the [AAMAS Website](https://aamas2021.soton.ac.uk/programme/how-to-participate/).
 
+You can directly link to the workshop on Underline with [this link](https://underline.io/events/116/sessions?eventSessionId=3396).
+
 ### Session 1
 
 **Chairs:** Omer Lev

@@ -12,6 +12,8 @@ The program for the workshop is now available on the [Program](./program.md) pag
 
 To participate in the workshop please follow the directions to log in on the [AAMAS Website](https://aamas2021.soton.ac.uk/programme/how-to-participate/).
 
+**You can directly link to the workshop on [Underline with this link](https://underline.io/events/116/sessions?eventSessionId=3396)**
+
 ## About the Games, Agents, and Incentives Workshop
 
 Games, Agents and Incentives is a confederated workshop which focuses (obviously…) on agents and incentives in AI.  In particular on game theory (cooperative and non-cooperative), social choice, and agent-mediated e-commerce aspects of AI systems. The confederated workshop merges multiple workshops that have been associated with AAMAS in the past, which considered different aspects of the general interplay between AI and economics:
