@@ -6,11 +6,7 @@ published: true
 
 ## Program
 
-**All sessions will be held starting at 7:00am GMT+1 (London Time) on Tuesday May 4th.**
-
-To participate in the workshop please follow the directions to log in on the [AAMAS Website](https://aamas2021.soton.ac.uk/programme/how-to-participate/).
-
-You can directly link to the workshop on Underline with [this link](https://underline.io/events/116/sessions?eventSessionId=3396).
+We had a great workshop this year -- you can watch the full video on [YouTube Here](https://youtu.be/CzAvo51ftL8).
 
 ### Session 1
 
