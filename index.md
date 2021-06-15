@@ -6,13 +6,13 @@ published: true
 ---
 <p style="text-align:center;"><img src="{{ 'img/gaiwcover.png' | relative_url }}" /></p>
 
-## Update April 30, 2021.
+## Thanks for a Great Workshop!
 
-The program for the workshop is now available on the [Program](./program.md) page. We look forward to seeing everyone on Tuesday May 4th at 7:00AM (GMT+1 UK Time)!.
+We had a great workshop this year -- you can watch the full video on [YouTube Here](https://youtu.be/CzAvo51ftL8).
 
-To participate in the workshop please follow the directions to log in on the [AAMAS Website](https://aamas2021.soton.ac.uk/programme/how-to-participate/).
+The full program and all papers will remain available on the [Program](./program.md) page.
 
-**You can directly link to the workshop on [Underline with this link](https://underline.io/events/116/sessions?eventSessionId=3396)**
+Look forward to seeing you all next time!
 
 ## About the Games, Agents, and Incentives Workshop
 
@@ -25,9 +25,9 @@ Over the past two decades, the focus of agent incentives in decentralised and ce
 
 ## Important Dates
 * ~~Submission Deadline: February 28, 2021 (AoE).~~
-* ~~Acceptance Notification: April 2, 2021.!~~ Acceptance Notification: April 9th
-* ~~Camera Ready: April 16, 2021 (AoE).~~ Camera Ready: April 18, 2021 (AoE).
-* Workshop: May 4th, 2021, 7am GMT+1.
+* ~~Acceptance Notification: April 2, 2021.!~~ ~~Acceptance Notification: April 9th~~
+* ~~Camera Ready: April 16, 2021 (AoE).~~ ~~Camera Ready: April 18, 2021 (AoE).~~
+* ~~Workshop: May 4th, 2021, 7am GMT+1.~~
 
 ---
 
